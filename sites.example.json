@@ -1,0 +1,4 @@
+[
+  { "name": "octopi",    "cwd": "/var/www/octopi-web-new" },
+  { "name": "brainybox", "cwd": "/var/www/Brainy-Box-backend" }
+]
