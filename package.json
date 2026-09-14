@@ -1,0 +1,13 @@
+{
+  "name": "watch-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starts every site's blog watcher from one command. Add a site by adding a line to sites.json.",
+  "scripts": {
+    "watcher": "node run.js",
+    "start": "node run.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

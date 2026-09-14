@@ -1,0 +1,3 @@
+node_modules/
+# Machine-specific: holds this machine's folder paths. Copy sites.example.json instead.
+sites.json
